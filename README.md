@@ -4,7 +4,7 @@
 
 <a href="https://github.com/rycont/umjunsik-lang">엄랭</a>을 기반으로 제작한 선린인터넷고등학교 전공동아리 EDCAN 언어입니다.
 
-웹 EDCAN 언어 처리기 : <a href="https://eungyolee.github.io/edcan-language">https://edcan-lang.netlify.app/</a>
+웹 EDCAN 언어 처리기 : <a href="https://eungyolee.github.io/edcan-language">https://eungyolee.github.io/edcan-language</a>
 
 키워드로는 '에', '드', '캔', '아', '틀', '리', '어 <del>(사실 에였는데 에드캔의 '에'랑 겹쳐서...)</del>', '픽', '셀'이 있습니다.
 
